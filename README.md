@@ -1,6 +1,7 @@
 # GibbsNet
 Implemented an image denoising algorithm using Gibbs sampling and Bayesian Networks to iteratively restore noisy grayscale images. Modeled each pixel’s value as a posterior distribution based on neighboring pixels, simulating over 50,000 iterations. Visualized the denoising effect using Matplotlib. 
 
+![image](https://github.com/user-attachments/assets/bfe4005c-05b4-498a-8472-e040167ff80d)
 
 
     The program is suppose to denoise a noisy image using gibbs sampling. 
